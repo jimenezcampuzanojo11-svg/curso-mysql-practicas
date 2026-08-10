@@ -10,8 +10,8 @@ desde el modelado lógico hasta la automatización de scripts y respaldos.
 | *📁 diagramas/* | Modelo Entidad-Relación (MER) que documenta la estructura lógica del sistema. |
 | *📁 scripts/* | Colección ordenada de 26 scripts SQL con consultas, tablas y procedimientos. |
 
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
-*Gestor de Base de Datos: MySQL
-*Modelado: MySQL Workbench
-*Entorno de Trabajo: Windows (DML / DDL Scripts)
+* **Gestor de Base de Datos:** MySQL
+* **Modelado:** MySQL Workbench
+* **Entorno de Trabajo:** Windows (DML / DDL Scripts)
