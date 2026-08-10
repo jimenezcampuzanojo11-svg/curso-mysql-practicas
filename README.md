@@ -22,4 +22,4 @@ desde el modelado lógico hasta la automatización de scripts y respaldos.
     Programas iniciales, algoritmos y fundamentos de consola en Java.
 *   ☕ [Java Swing Prácticas](https://github.com/jimenezcampuzanojo11-svg/java-swing-practicas):
     Colección de 17 ejercicios interactivos diseñados completamente mediante código puro.
-*   🏢 [Proyecto Final: Sistema Coca-Cola](https://github.com): Aplicación de escritorio completa para el control               vacacional de empleados basada en el curso de Enertos.
+*   🏢 [Proyecto Final: Sistema Coca-Cola](https://github.com/jimenezcampuzanojo11-svg/sistema-coca-cola):                      Aplicación de escritorio completa para el control vacacional de empleados basada en el curso de Enertos.
